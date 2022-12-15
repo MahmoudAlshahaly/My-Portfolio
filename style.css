@@ -394,19 +394,20 @@ footer a {
         align-self: center;
         position: absolute;
         bottom: 0;
-        height: 90%;
-        left: 22%;
-        transform: translateX(-20%);
+        height: 70%;
+        left: 27%;
+        transform: translateX(-10%);
         transition: bottom 1s, left 1s;
     }
 
     .home .container-images:hover .shape {
-        bottom: 20px;
+        bottom: 10px;
     }
 
     .content {
         display: flex;
         flex-wrap: wrap;
+        margin-top: 20px;
     }
 
     .container-texts {
@@ -452,7 +453,7 @@ footer a {
     }
 
     .social {
-        margin-top: 60px;
+        margin-top: 45px;
     }
 
     h3 {
